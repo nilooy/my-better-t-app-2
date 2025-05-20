@@ -1,4 +1,4 @@
-# my-better-t-app-2
+# my-better-t-app-2 (to test need to add the OPENAI_API_KEY)
 
 This project was created with [Better-T-Stack](https://github.com/AmanVarshney01/create-better-t-stack), a modern TypeScript stack that combines Next.js, Hono, ORPC, and more.
 
